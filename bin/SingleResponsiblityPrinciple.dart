@@ -23,6 +23,7 @@ class ContaCorrenteRepository {
 
 class ContaCorrente2 {
   final ContaCorrenteRepository _repository = ContaCorrenteRepository();
+
   validarConta() {
     // logica que valida a existencia da conta
   }
